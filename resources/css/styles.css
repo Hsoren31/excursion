@@ -18,6 +18,7 @@ a {
 h2 {
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
 p {
@@ -28,4 +29,12 @@ p {
 .copyright {
     text-align: right;
     color: gray;
+}
+
+img {
+    margin: 15px;
+}
+
+video {
+    padding-top: 25px;
 }
